@@ -1,66 +1,69 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Estado de las Vías en Colombia – Power BI</title>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f8f9fa;
-        margin: 0;
-        padding: 0;
-        text-align: center;
-        color: #333;
-    }
-    header {
-        background-color: #004080;
-        color: white;
-        padding: 20px 0;
-    }
-    header img {
-        height: 60px;
-        margin-bottom: 10px;
-    }
-    h1 {
-        margin: 0;
-        font-size: 1.8rem;
-    }
-    .mockup {
-        margin-top: 30px;
-        display: inline-block;
-        position: relative;
-    }
-    .mockup img {
-        width: 100%;
-        max-width: 900px;
-        border-radius: 12px;
-        box-shadow: 0px 8px 20px rgba(0,0,0,0.2);
-    }
-    footer {
-        margin-top: 20px;
-        padding: 15px;
-        font-size: 0.9rem;
-        background-color: #e9ecef;
-    }
-</style>
-</head>
-<body>
+# 🛣️ Estado de las Vías en Colombia – Power BI
 
-<header>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_placeholder.png" alt="Logo SMA">
-    <h1>Estado de las Vías en Colombia – Power BI</h1>
-    <p>Visualización en tiempo real con datos oficiales de INVÍAS</p>
-</header>
+![Logo SMA](https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_placeholder.png) <!-- Cambia por tu logo corporativo -->
 
-<div class="mockup">
-    <img src="./preview_dashboard.png" alt="Vista previa del Dashboard">
-</div>
+[![Estado de las Vías](https://img.shields.io/badge/Datos%20Fuente-INVÍAS-blue?style=flat-square)](https://invias.gov.co)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat-square&logo=powerbi)](https://powerbi.microsoft.com)
+[![Última actualización](https://img.shields.io/badge/Actualizado-Agosto%202025-green?style=flat-square)](#)
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-lightgrey?style=flat-square)](LICENSE)
 
-<footer>
-    Unidad de Seguridad y Movilidad – SMA | <a href="https://invias.gov.co">Datos INVÍAS</a>
-</footer>
+---
 
-</body>
-</html>
+## 📌 Descripción del Proyecto
+Este dashboard en **Power BI** presenta el **estado actualizado de las vías en Colombia**, usando información oficial extraída del **Instituto Nacional de Vías – INVÍAS**.  
+El objetivo es ofrecer a funcionarios y tomadores de decisiones una **visión clara y visual** de la situación vial en tiempo real para **mejorar la planeación de desplazamientos** y **reducir riesgos operativos**.
+
+---
+
+## 📊 Características Principales
+- 🛰️ **Datos oficiales** actualizados desde la plataforma de INVÍAS.
+- 🗺️ **Mapa interactivo** con filtros por departamento, vía y tramo.
+- 🚧 **Clasificación de estado vial** con íconos visuales:
+  - 🟢 **Transitable**
+  - 🟡 **Precaución**
+  - 🔴 **Cerrada**
+- 📅 Histórico de cierres y restricciones.
+- 📈 Estadísticas por región y tipo de afectación.
+- ⚠️ Identificación de puntos críticos.
+
+---
+
+## 🛠️ Requisitos
+- **Power BI Desktop** (versión recomendada: `2025.1` o superior).
+- Conexión a Internet para actualizar los datos.
+- Acceso al archivo `.pbix` incluido en este repositorio.
+
+---
+
+## 🚀 Uso del Dashboard
+1. **Descargar** el archivo [`Estado_Vias_Colombia.pbix`](./Estado_Vias_Colombia.pbix) desde este repositorio.
+2. **Abrirlo** con Power BI Desktop.
+3. Hacer clic en **Actualizar** para cargar la última información desde INVÍAS.
+4. Usar los **filtros** y **segmentadores** para analizar la información por región, tipo de vía o estado.
+
+---
+
+## 📡 Fuente de Datos
+- **Instituto Nacional de Vías – INVÍAS**  
+  [Portal de Estado de Vías](https://invias.gov.co)
+
+---
+
+## 🖼️ Vista Previa
+*(Ejemplo de captura de pantalla del dashboard)*
+
+![Vista previa](./preview_dashboard.png) <!-- Agregar captura real -->
+
+---
+
+## 📄 Licencia
+Este proyecto se distribuye bajo licencia **MIT**, lo que permite su uso, modificación y distribución libre, siempre que se mantenga la atribución correspondiente.
+
+---
+
+## 👨‍💼 Autor / Contacto
+**Unidad de Seguridad y Movilidad – SMA**  
+📧 contacto@sma.com.co  
+🌐 [www.sma.com.co](https://www.sma.com.co)
+
 
