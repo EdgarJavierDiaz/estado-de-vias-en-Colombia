@@ -50,9 +50,10 @@ El objetivo es ofrecer a funcionarios y tomadores de decisiones una **visión cl
 ---
 
 ## 🖼️ Vista Previa
-*(Ejemplo de captura de pantalla del dashboard)*
+<img width="886" height="482" alt="image" src="https://github.com/user-attachments/assets/84461f1a-4b6f-46fd-b802-63f97a58aab9" />
 
-![Vista previa](./preview_dashboard.png) <!-- Agregar captura real -->
+
+
 
 ---
 
