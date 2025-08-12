@@ -1,6 +1,7 @@
 # 🛣️ Estado de las Vías en Colombia – Power BI
 
-![Logo SMA](https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_placeholder.png) <!-- Cambia por tu logo corporativo -->
+<img width="962" height="420" alt="Logo SMA Corto" src="https://github.com/user-attachments/assets/94fac8f2-a657-449b-a692-1899073ae462" />
+<!-- Cambia por tu logo corporativo -->
 
 [![Estado de las Vías](https://img.shields.io/badge/Datos%20Fuente-INVÍAS-blue?style=flat-square)](https://invias.gov.co)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat-square&logo=powerbi)](https://powerbi.microsoft.com)
