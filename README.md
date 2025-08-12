@@ -61,9 +61,9 @@ Este proyecto se distribuye bajo licencia **MIT**, lo que permite su uso, modifi
 
 ---
 
-## 👨‍💼 Autor / Contacto
-**Unidad de Seguridad y Movilidad – SMA**  
-📧 contacto@sma.com.co  
-🌐 [www.sma.com.co](https://www.sma.com.co)
+## 👨‍💼 Edgar Javier Díaz Rincón 
+**Analista de Seguridad Física**  
+📧 edgar.diaz@smaingenieros.com.co  
+🌐 www.smaingenieros.com.co
 
 
